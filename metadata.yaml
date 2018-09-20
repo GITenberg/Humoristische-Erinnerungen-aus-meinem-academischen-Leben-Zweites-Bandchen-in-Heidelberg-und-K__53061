@@ -1,5 +1,8 @@
 _repo: Humoristische-Erinnerungen-aus-meinem-academischen-Leben-Zweites-Bandchen-in-Heidelberg-und-K__53061
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53061-h/images/cover.jpg
 creator:
   author:
     agent_name: Kobbe, Theodor von
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47202
     wikipedia: https://de.wikipedia.org/wiki/Theodor_von_Kobbe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53061#Humoristische-Erinnerungen-aus-meinem-academischen-Leben-Zweites-Bandchen-in-Heidelberg-und-K_
 gutenberg_issued: '2016-09-16'
 gutenberg_type: Text
 identifiers:
