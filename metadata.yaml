@@ -1,0 +1,26 @@
+_repo: Humoristische-Erinnerungen-aus-meinem-academischen-Leben-Zweites-Bandchen-in-Heidelberg-und-K__53061
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kobbe, Theodor von
+    birthdate: 1798
+    deathdate: 1845
+    gutenberg_agent_id: '47202'
+    url: http://www.gutenberg.org/2009/agents/47202
+    wikipedia: https://de.wikipedia.org/wiki/Theodor_von_Kobbe
+description: ''
+gutenberg_issued: '2016-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53061'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Kobbe, Theodor von, 1798-1845'
+- GITenberg
+title: "Humoristische Erinnerungen aus meinem academischen Leben, Zweites Bändchen\r\
+  \nin Heidelberg und Kiel in den Jahren 1817-1819"
+url: http://www.gutenberg.org/ebooks/53061
